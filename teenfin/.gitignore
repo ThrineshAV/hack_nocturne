@@ -1,0 +1,6 @@
+back
+__pycache__/
+*.pyc
+db.sqlite3
+pendulum
+venv
